@@ -12,6 +12,7 @@ Contener pequeños desarrollos y un entorno virtual donde poder desarrollarlos.
 * Virtualbox o KVM/Qemu o cualquier otro que se te ocurra
 
 ## Assets
+* Máquina virtual basada en GNU/Debian testing obtenida de [vagrantup.com](https://app.vagrantup.com/boxes/search).
 
 
 ## Apéndices
