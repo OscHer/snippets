@@ -3,4 +3,6 @@
 
 Vagrant.configure("2") do |config|
   config.vm.box = "debian/testing64"
+
+  config.vm.synced_folder "snippets", "/opt/snippets"
 end
