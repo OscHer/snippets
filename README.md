@@ -11,4 +11,7 @@ Contener pequeños desarrollos y un entorno virtual donde poder desarrollarlos.
 * Vagrant
 * Virtualbox o KVM/Qemu o cualquier otro que se te ocurra
 
+## Assets
+
+
 ## Apéndices
